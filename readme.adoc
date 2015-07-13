@@ -1,0 +1,19 @@
+= Code
+:syntax-highligher: pygments
+
+== About the instructor
+
+* Prabhu Sunderaraman
+* Programmer, Trainer, Speaker, Author, Blogger
+* http://healthycoder.in
+* Spring 3.0 Black Book, Practical Ext JS 4
+
+== Modus Operandi
+
+* Learn the concepts by writing code. 
+* Experiment by writing code
+* Use variety of tools and libraries
+
+== ToDo
+
+* Agenda for each day will be presented in the morning
