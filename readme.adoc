@@ -1,6 +1,3 @@
-= Code
-:syntax-highligher: pygments
-
 == About the instructor
 
 * Prabhu Sunderaraman
