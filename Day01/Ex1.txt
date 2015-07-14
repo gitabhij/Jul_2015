@@ -1,0 +1,20 @@
+In this exercise you'll implement a simple guessing game. Start by creating a class GuessingGame. Your class will generate a random number between 1 and 100. The user will play the game till he guesses the number correct. Here's a sample output of the program. Let's say the target number is 77.
+
+Welcome to the guessing game. Please enter your name
+Sam ->
+Hello Sam! Enter a number between 1 and 100.
+50 ->
+Aim Higher
+75 ->
+Aim Higher
+90 ->
+Aim Lower
+80 ->
+Aim Lower
+77 ->
+You've got it Sam in 4 attempts!!!
+
+
+Hint:
+1) Please refer to Math class in API documentation
+2) Please refer to Scanner class in API documentation
