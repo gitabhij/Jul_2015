@@ -1,0 +1,2 @@
+A person has name,age and address. The address contains street name, city name and country. He can eat, sleep and work.
+Create a couple of persons and populate their characteristics and print the details.

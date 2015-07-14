@@ -1,5 +1,10 @@
 https://docs.oracle.com/javase/8/docs/api/
 
+All variables and methods begin with lowercase
+All classes begin with uppercase
+CamelCasing is followed in naming
+Give meaningful names for all entities
+
 PATH and CLASSPATH
 
 PATH is for the OS to find the location of your executables.
