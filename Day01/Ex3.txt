@@ -1,0 +1,3 @@
+Account has an account number and a balance; You can deposit and withdraw amount to/from the balance; Account number cannot be changed once set; The minimum balance should be 1000; When you withdraw amount the minimum balance should be maintained always. You cannot change the balance directly without deposit or withdraw.
+
+You can create an account with accountnumber say, 213123213. Try to deposit 1500 and withdraw 4000. Print the balance.
