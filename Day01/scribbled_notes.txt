@@ -1,0 +1,46 @@
+PATH and CLASSPATH
+
+PATH is for the OS to find the location of your executables.
+java, javac etc, are executables present in the bin folder.
+configure the location in your PATH environment variable
+DON'T FORGET TO RESTART COMMAND PROMPT
+Make sure javac and java point to the same versions
+by running java/javac -version
+
+
+Sublime Text
+Java 8 
+Compiler/Runtime environment
+Java is a compiled language 
+
+Tools
+Compiler
+Runtime engine to execute the compiled code
+
+oracle site and download JDK
+
+
+HTML 5 (plugin dependency removed)
+CSS 3 (responsive web design)
+jQuery
+
+Agile
+Scrum
+
+
+Python, 
+Java(Millions of apps), JavaScript(Flipkart)
+VB.NET, VbScript
+Lisp, PL-SQL(DB), Perl, R, 
+Ruby, Groovy, Bash(shell scripting)
+Scala(Twitter), Erlang(Facebook Messenger), kulang
+Fortran, Cobol, Basic, 
+
+
+
+Prabhu Sunderaraman
+DuraSoft, Chennai
+
+No Power Point Presentations
+
+https://github.com/prabhu-durasoft/Jul_2015
