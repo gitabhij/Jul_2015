@@ -1,0 +1,13 @@
+Create a string "mumbai".
+Implement the following for this string.
+
+1) Print the first character
+2) Print the length
+3) Print the last two characters
+4) Print the value in caps
+5) Print the characters in odd position.
+
+Create a string "hello how are you?".
+1) Print all the words in the string
+
+Do not use StringBuffer or StringBuilder. Don't worry about memory in this exercise.

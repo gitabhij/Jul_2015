@@ -1,5 +1,24 @@
 https://docs.oracle.com/javase/8/docs/api/
 
+Objects are stored in the heap
+References are in the stack
+Comparing references using == compares the location/address
+
+Strings are immutable
+Do not use string classes when you have to manipulate a lot
+Leads to creation of lot of objects
+Use StringBuffer or StringBuilder classes in case of manipulations
+Use Strings when you have to almost treat them like constants.
+
+
+Strings can be created using new or without using new keyword
+Stick to one way of creating strings
+Strings are reference types
+If you use without new an Internal object is created.
+String literals are stored in the String pool.
+For Strings use .equals() to compare the values
+
+
 All variables and methods begin with lowercase
 All classes begin with uppercase
 CamelCasing is followed in naming
